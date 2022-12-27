@@ -1,7 +1,4 @@
-# Welcome To My Github
-#### Valentin 🦑
-
----
+# Welcome To My Github Page👋
 
 ### Skills ⚙️
 
