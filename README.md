@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
 </p>
 
----
-
 ### Stats 📊
 
 
