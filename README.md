@@ -1,7 +1,7 @@
 # Welcome To My Github Page👋
 
 ### Skills ⚙️
-<img src="https://tenor.com/bnuy3.gif">
+<hr>
 <p align=left>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
