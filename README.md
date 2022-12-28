@@ -10,8 +10,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
 </p>
 
-### Stats 📊
-
+## Stats 📊
 
 <p align=left>
 <img src="https://komarev.com/ghpvc/?username=ValentinLvrr&amp;color=blue&amp;style=for-the-badge">
