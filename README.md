@@ -1,18 +1,18 @@
-# Welcome To My Github Page👋
+### Hello, I'm [Valentin](https://youtu.be/eBGIQ7ZuuiU) !
 
-## Compétences ⚙️
+I'm a **14 yo french code kid** <img src="https://img.icons8.com/color/1048/france-circular.png" width="16"/>
+python mainly but touches everything ☕
 
-<p align=left>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
-</p>
 
-## Statistiques 📊
+#### ✉ — Contacts
 
-<p align=left>
-<img src="https://komarev.com/ghpvc/?username=ValentinLvrr&amp;color=blue&amp;style=for-the-badge">
-<img src="https://img.shields.io/github/stars/ValentinLvrr?style=for-the-badge&amp;?affiliations=OWNER%2CCOLLABORATOR">
-</p>
+- [📩 EMail](~~Delection~~mailto:valentinlelievre2008@gmail.com)
+
+- [💬 Discord](https://discord.com/users/768049100238225418)
+
+#### 🛠 — Technicals Skills
+![Skills](https://skillicons.dev/icons?i=css,html,js,python,selenium,git,github,bash,markdown,linux,raspberrypi,vim,vscode&theme=dark&perline=8)
+
+
+#### ⚙️ — Stats
+![views](https://komarev.com/ghpvc/?username=ValentinLvrr&amp;color=blue&amp;style=for-the-badge)
