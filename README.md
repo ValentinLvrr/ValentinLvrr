@@ -6,7 +6,7 @@ python mainly but touches everything ☕
 
 ### ✉ — Contacts
 
-- [📩 EMail](~~Delection~~mailto:valentinlelievre2008@gmail.com)
+- [📩 EMail](mailto:valentinlelievre2008@gmail.com)
 
 - [💬 Discord](https://discord.com/users/768049100238225418)
 
