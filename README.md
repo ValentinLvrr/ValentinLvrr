@@ -1,6 +1,6 @@
 ## Hello, I'm [Valentin](https://youtu.be/eBGIQ7ZuuiU) !
 
-I'm a **14 yo french code kid** <img src="https://img.icons8.com/color/1048/france-circular.png" width="16"/>
+I'm a **14 yo full time dev kid from france** <img src="https://img.icons8.com/color/1048/france-circular.png" width="16"/>
 python mainly but touches everything ☕
 
 
