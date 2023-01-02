@@ -11,7 +11,7 @@ python mainly but touches everything ☕
 - [💬 Discord](https://discord.com/users/768049100238225418)
 
 ### 🛠 — Technicals Skills
-![Skills](https://skillicons.dev/icons?i=css,html,js,python,selenium,git,github,bash,markdown,linux,raspberrypi,vim,vscode&theme=dark&perline=8)
+![Skills](https://skillicons.dev/icons?i=css,html,js,python,selenium,git,github,discord,bash,markdown,linux,raspberrypi,vim,vscode&theme=dark&perline=8)
 
 
 ### ⚙️ — Stats
