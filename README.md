@@ -4,6 +4,8 @@ I'm a **14 yo full time dev kid from france** <img src="https://img.icons8.com/c
 python mainly but touches everything ☕
 
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ValentinLvr&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
+
 ### ✉ — Contacts
 
 - [📩 Email](mailto:valentinlelievre2008@gmail.com)
