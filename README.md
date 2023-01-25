@@ -11,7 +11,7 @@
 
 
 <!-- Contacts -->
-## ✉  Contact me</h2>
+## ✉  Contact</h2>
 
 [**`Mail`**](mailto:valentinlelievre2008@gmail.com)
 
@@ -25,6 +25,6 @@
 
 ![]()
 
+![](https://komarev.com/ghpvc/?username=ValentinLvrr&amp;color=blue&amp;style=for-the-badge)
 ![](https://custom-icon-badges.herokuapp.com/github/followers/ValentinLvrr?color=52be80&labelColor=27ae60&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/github/stars/ValentinLvrr?color=f7dc6f&labelColor=d4ac0d&style=for-the-badge&logo=person-add&label=Stars&logoColor=white)
-![](https://komarev.com/ghpvc/?username=ValentinLvrr&amp;color=blue&amp;style=for-the-badge)
