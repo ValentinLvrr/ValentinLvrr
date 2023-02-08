@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaSript**
 
-- 👨‍💻 All of my projects are available at [jutsu.tech](https://jutsu.tech)
+- 👨‍💻 All of my projects are available [**here**](https://github.com/ValentinLvrr?tab=repositories)
 
 - 💬 Ask me about **Python**
 
