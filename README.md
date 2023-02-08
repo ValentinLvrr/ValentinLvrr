@@ -1,30 +1,31 @@
-# Hi 👋, I'm Valentin !</h1>
 
-### I'm a 14yo french code kid.
-### If you want to collaborate, contact me</h3>
+# Hi 👋, I'm Valentin
 
-![](https://media.tenor.com/9WKtYEMzhlAAAAAC/line-rainbow.gif)
-## 🛠 Technical Skills
+### 14 yo code kid | A python dev from France
+<br>
 
-![](https://skillicons.dev/icons?i=github,python,markdown,vscode&theme=dark&perline=10)
+- 🌱 I’m currently learning **JavaSript**
 
+- 👨‍💻 All of my projects are available at [jutsu.tech](https://jutsu.tech)
 
+- 💬 Ask me about **Python**
 
-<!-- Contacts -->
-## ✉  Contact</h2>
+- 📫 How to reach me **valentinlelievre2008@gmail.com**
 
-[**`Mail`**](mailto:valentinlelievre2008@gmail.com)
+<br>
 
-[**`Discord`**](https://discord.com/users/768049100238225418)
+### Connect with me
 
+- 📜 By [**Mail**](mailto:valentinlelievre2008@gmail.com)
+- 💭 or [**Discord**](https://discord.com/users/768049100238225418)
 
+<br>
 
+### Languages and Tools
 
-<!-- Followers & Stars Bages -->
-## ⚙️ GitHub Stats
+![](https://skillicons.dev/icons?i=github,raspberrypi,linux,python,markdown,vscode&theme=dark&perline=10)
 
-![]()
+<br>
 
-![](https://komarev.com/ghpvc/?username=ValentinLvrr&amp;color=blue&amp;style=for-the-badge)
-![](https://custom-icon-badges.herokuapp.com/github/followers/ValentinLvrr?color=52be80&labelColor=27ae60&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
-![](https://custom-icon-badges.herokuapp.com/github/stars/ValentinLvrr?color=f7dc6f&labelColor=d4ac0d&style=for-the-badge&logo=person-add&label=Stars&logoColor=white)
+Made with ❤, by Saurabh Chauhan
+    
