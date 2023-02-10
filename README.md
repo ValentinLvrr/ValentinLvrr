@@ -4,7 +4,7 @@
 ### 14 yo code kid | A python dev from France
 <br>
 
-- 🌱 I’m currently learning **JavaSript**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available [**here**](https://github.com/ValentinLvrr?tab=repositories)
 
