@@ -12,19 +12,23 @@
 
 - 📫 How to reach me **valentinlelievre2008@gmail.com**
 
-<br>
+<div class="lan">
 
-### Connect with me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinLvrr&orgs=Shadow-Hoods&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en">
+<img src="https://skillicons.dev/icons?i=html,css,js,github,raspberrypi,linux,react,python,markdown,vscode&theme=dark&perline=3">
 
-- 📜 By [**Mail**](mailto:valentinlelievre2008@gmail.com)
-- 💭 or [**Discord**](https://discord.com/users/768049100238225418)
-
-<br>
-
-### Languages and Tools
-
-![](https://skillicons.dev/icons?i=html,css,js,github,raspberrypi,linux,react,python,markdown,vscode&theme=dark&perline=5)
+</div>
 
 <br>
 
-Made with ❤, by Valentin
+### Connect with me by [**Mail**](mailto:valentinlelievre2008@gmail.com) or with [**Discord**](https://discord.com/users/768049100238225418)
+
+
+#### Made with ❤, by Valentin
+
+<style>
+div.lan {
+    display: flex;
+    justify-content: space-between;
+}
+</style>
