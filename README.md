@@ -23,7 +23,7 @@
 
 ### Languages and Tools
 
-![](https://skillicons.dev/icons?i=github,raspberrypi,linux,python,markdown,vscode&theme=dark&perline=10)
+![](https://skillicons.dev/icons?i=html,css,js,github,raspberrypi,linux,react,python,markdown,vscode&theme=dark&perline=5)
 
 <br>
 
