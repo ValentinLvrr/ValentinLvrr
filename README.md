@@ -1,12 +1,12 @@
 
 # Hi 👋, I'm Valentin
 
-### 14 yo code kid | A python dev from France
+### 14 yo python & frontend developer from france
 <br>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **JavaSript**
 
-- 👨‍💻 All of my projects are available [**here**](https://github.com/ValentinLvrr?tab=repositories)
+- 👨‍💻 All of my projects are available [**here**](https://valentinlvrr.github.io/)
 
 - 💬 Ask me about **Python**
 
@@ -28,4 +28,3 @@
 <br>
 
 Made with ❤, by Valentin
-    
