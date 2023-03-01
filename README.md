@@ -1,5 +1,5 @@
 
-<center>
+<div align="center">
 
 # Hi 👋, I'm Valentin
 
@@ -27,4 +27,4 @@
 <br><br>
 #### Made with ❤, by Valentin
 
-</center>
+</div>
