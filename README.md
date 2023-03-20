@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Valentin
 
-## 14 yo python & frontend developer from france
+### 14 yo python & frontend developer from france
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,github,linux,python,raspberrypi,bash,vscode&theme=dark&perline=9">
 <br><br>
