@@ -3,9 +3,9 @@
 
 # Hi 👋, I'm Valentin
 
-### 14 yo **python**, **nodejs** and **front-end** developer from france
+### young python and node.js developer from france
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,github,linux,python,raspberrypi,bash,vscode&theme=dark&perline=9">
+<img src="https://skillicons.dev/icons?i=js,bots,github,linux,python,raspberrypi,bash,vscode&theme=dark&perline=9">
 <br><br>
 <img src="https://lanyard.cnrad.dev/api/768049100238225418">
 
