@@ -7,16 +7,16 @@
 <br>
 <img src="https://skillicons.dev/icons?i=js,bots,github,linux,python,raspberrypi,bash,vscode&theme=dark&perline=9">
 <br><br>
-<img src="https://lanyard.cnrad.dev/api/768049100238225418">
+<img src="https://lanyard.cnrad.dev/api/768049100238225418?bg=283593&borderRadius=30px">
 
 <br>
 <p>
 
- 🌱 I’m currently learning **JavaSript**
+ 🌱 I’m currently learning **Node.JS**
 
  👨‍💻 All of my projects are available [**here**](https://github.com/ValentinLvrr?tab=repositories)
 
- 💬 Ask me about **Python** or **Discord Bots**
+ 💬 Ask me about **Python** or **Discord / Telegram Bots**
 </p>
 
 ### Connect with me by [**Mail**](mailto:valentinlelievre2008@gmail.com) or with [**Discord**](https://discord.com/users/768049100238225418)
