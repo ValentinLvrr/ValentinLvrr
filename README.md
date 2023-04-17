@@ -5,7 +5,7 @@
 
 ### young python and node.js developer from france
 <br>
-<img src="https://skillicons.dev/icons?i=js,bots,github,linux,python,raspberrypi,bash,vscode&theme=dark&perline=9">
+<img src="https://skillicons.dev/icons?i=vue,python,nodejs,raspberrypi,bash,vscode&theme=dark&perline=9">
 <br><br>
 <img src="https://lanyard.cnrad.dev/api/768049100238225418?bg=283593&borderRadius=30px">
 
