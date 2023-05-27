@@ -1,15 +1,9 @@
 
-<div align="center">
+<div >
 
 # Hi 👋, I'm Valentin
 
-### young python and node.js developer from france
-<br>
-<img src="https://skillicons.dev/icons?i=vue,python,nodejs,raspberrypi,bash,vscode&theme=dark&perline=9">
-<br><br>
-<img src="https://lanyard.cnrad.dev/api/768049100238225418?bg=283593&borderRadius=30px">
-
-<br>
+### A 14yo python and node.js dev from france
 <p>
 
  🌱 I’m currently learning **Node.JS**
@@ -19,9 +13,10 @@
  💬 Ask me about **Python** or **Discord / Telegram Bots**
 </p>
 
-### Connect with me by [**Mail**](mailto:valentinlelievre2008@gmail.com) or with [**Discord**](https://discord.com/users/768049100238225418)
-
+### Connect with me by [**discord**](https://discord.com/users/768049100238225418)
 <br>
+<img src="https://skillicons.dev/icons?i=python,nodejs,raspberrypi,vscode&theme=dark&perline=10">
+<br><br>
 
-#### Made with ❤, by Valentin
+### Made with ❤, by Valentin
 </div>
