@@ -1,7 +1,6 @@
 <p align="center">
     <br>
     <samp>
-        Hey you ! I'm <b><a>Valentin</a></b>.
         <br>
             I'm a Python, Node.Js developper from France.
         <br>
