@@ -1,11 +1,8 @@
-<p align="center">
-    <br>
-    <samp>
-        <br>
-            I'm a Python, Node.Js developper from France.
-        <br>
-    </samp>
-    <br>
-    <br>
-  <img src="https://raw.githubusercontent.com/ValentinLvrr/ValentinLvrr/main/assets/pikachu.gif" width="200"/>
-</p>
+Hey there, I'm Valentin, an 15-year-old developer from France.
+
+I work with Python and Pinescript and i'm interested in finance, quantitative trading, reverse engineering, REST APIs.
+Currently, I've got a passion for automation, reverse engineering.
+
+Social
+
+- Discord: `baloo.fx`
