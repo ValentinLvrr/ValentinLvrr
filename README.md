@@ -1,4 +1,4 @@
-### 🤵 I'm Valentin, an 15-year-old developer from France.
+### 🤵 I'm Valentin, an 16-year-old developer from France.
 
 - I work with Python and Pinescript and i'm interested in finance, quantitative trading, reverse engineering, REST APIs and automations
 
