@@ -4,10 +4,8 @@
 
 ### 💌 My Socials
 
-- Discord: `baloo.fx`
+- Discord: `valentin.py`
 
 ### ☕ Buy me a coffee
 
 - SOL - `EV6pKsDrUwf1XH3PWovMLVGNy6QmL6U44Q3Q6L6MXy9x`
-- BTC - `bc1q7qpcuv743du7glld8f6zz47u4p2p8gdz7m0w8m`
-- ETH - `0x111810EF18769172213eEdF6678e8FAA98BE89D5`
